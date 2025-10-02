@@ -17,11 +17,13 @@ Eu sou Agnaldo Felix, :smiley:
 
 :man: <h1> About me </h1>
 
-Sou apaixonado por programação desde o ensino médio, mas foi em 2022, quando entrei no curso de Ciência da Computação, que realmente mergulhei de cabeça nesse universo. Desde então, venho me dedicando diariamente a aprender, evoluir minhas soft skills e colocar em prática o que estudo.
+Sou apaixonado por programação desde o ensino médio, mas foi em 2022, ao iniciar o curso de Ciência da Computação, que mergulhei de vez nesse universo. Desde então, venho me dedicando diariamente a aprender, evoluir minhas soft skills e aplicar o que estudo em projetos reais.
 
-Gosto de me desafiar em projetos que unem aprendizado e propósito, utilizando tecnologias como Java (Spring Boot), Node.js, Python, React e Styled-Components, além de trabalhar com bancos de dados como PostgreSQL.
+Em 2024 tive a oportunidade de atuar na Qintess, trabalhando com Java (Spring Boot) e React, o que me proporcionou experiência prática em desenvolvimento backend e frontend em projetos de grande porte. Atualmente, em 2025, estou na CI&T, onde trabalho com Next.js e Node.js, aprofundando meus conhecimentos em aplicações modernas e escaláveis.
 
-Estou sempre buscando evoluir, tanto tecnicamente quanto pessoalmente, com o objetivo de me tornar um desenvolvedor Full Stack preparado para encarar os desafios reais do mercado e fazer a diferença através da tecnologia.
+Gosto de me desafiar em projetos que unem aprendizado e propósito, utilizando tecnologias como Java, Node.js, Python, React e Styled-Components, além de trabalhar com bancos de dados como PostgreSQL.
+
+Estou sempre buscando evoluir, tanto tecnicamente quanto pessoalmente, com o objetivo de me consolidar como desenvolvedor Full Stack, preparado para encarar os desafios reais do mercado e gerar impacto positivo através da tecnologia.
 
 :computer: <h1> My Stacks </h1>:
     
