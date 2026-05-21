@@ -2,8 +2,6 @@
 
 Eu sou Agnaldo Felix, :smiley:
 
-:sparkles: I like: :heartpulse:
-<br>
 :coffee:Coffee
 <br>
 :runner:Corrida
