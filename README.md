@@ -2,7 +2,7 @@
 
 Eu sou Agnaldo Felix, :smiley:
 
-:coffee:Coffee
+:coffee:Café
 <br>
 :runner:Corrida
 <br>
